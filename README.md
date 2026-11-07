@@ -3,8 +3,7 @@
 Apps by Sandeep Gangarapu.
 
 ```sh
-brew trust sandeepgangarapu/tap
-brew install --cask sandeepgangarapu/tap/mdown
+brew trust sandeepgangarapu/tap && brew install --cask sandeepgangarapu/tap/mdown
 ```
 
 Homebrew asks you to trust a tap once before it installs anything from it.
