@@ -2,8 +2,7 @@ cask "mdown" do
   version "1.1"
   sha256 "005985670a67f59bd6551d379e1dd308cbeb871a3b58c271481ce7944360ce25"
 
-  url "https://github.com/sandeepgangarapu/mdown/releases/download/v#{version}/MDown.dmg",
-      verified: "github.com/sandeepgangarapu/mdown/"
+  url "https://github.com/sandeepgangarapu/mdown/releases/download/v#{version}/MDown.dmg"
   name "MDown"
   desc "Simple native Markdown editor"
   homepage "https://mdown.sandeepgangarapu.com/"
