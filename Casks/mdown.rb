@@ -1,6 +1,6 @@
 cask "mdown" do
-  version "1.1.3"
-  sha256 "4bb4be1a4312a75531714dbc5c2354979472f0869224d696bff1f98f0f35fcb5"
+  version "1.1.4"
+  sha256 "781a923e406471ee23432f8e8b5656fe4b687bad0443dd33f1a617653304de81"
 
   url "https://github.com/sandeepgangarapu/mdown/releases/download/v#{version}/MDown.dmg"
   name "MDown"
